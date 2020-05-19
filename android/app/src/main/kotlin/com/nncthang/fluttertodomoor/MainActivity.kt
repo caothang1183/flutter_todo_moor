@@ -1,0 +1,6 @@
+package com.nncthang.fluttertodomoor
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
